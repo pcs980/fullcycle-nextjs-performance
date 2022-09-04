@@ -2,6 +2,13 @@
   "name": "nextjs-performance",
   "version": "0.1.0",
   "private": true,
+  "keywords": [
+    "react",
+    "nextjs",
+    "vercel",
+    "ngrok",
+    "typescript"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
